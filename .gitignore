@@ -1,0 +1,5 @@
+# Ignore folder named "dataset"
+dataset/
+
+# Ignore .csv files
+*.csv
